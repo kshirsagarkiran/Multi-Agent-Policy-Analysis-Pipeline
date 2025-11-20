@@ -1,3 +1,22 @@
+# Title: Multi-Agent Policy Analysis Pipeline
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/downloads/)
+[![Status: Production Ready](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](https://github.com/yourusername/multi-agent-policy-analysis)
+[![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Maintained: Yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/multi-agent-policy-analysis/graphs/commit-activity)
+
+**Advanced policy document analysis system powered by 15 specialized AI agents...**
+
+
+
+
+
+
+
+
+
+
 ## Task
 
 You will build and evaluate a **multi-agent RAG pipeline** that:
