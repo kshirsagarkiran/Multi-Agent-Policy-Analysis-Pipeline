@@ -1,0 +1,102 @@
+{
+  "What are the employment trends in green sectors?": {
+    "original_query": "What are the employment trends in green sectors?",
+    "pii_check": {
+      "original": "What are the employment trends in green sectors?",
+      "redacted": "What are the employment trends in green sectors?",
+      "pii_found": false
+    },
+    "sensitivity_filter": {
+      "is_sensitive": false,
+      "filter_score": 0.95,
+      "action": "ALLOW"
+    },
+    "bias_analysis": {
+      "bias_score": 1.0,
+      "detected_biases": [],
+      "bias_level": "LOW"
+    },
+    "safety_score": 0.95,
+    "recommendation": "APPROVED"
+  },
+  "How do carbon emissions affect global economic growth?": {
+    "original_query": "How do carbon emissions affect global economic growth?",
+    "pii_check": {
+      "original": "How do carbon emissions affect global economic growth?",
+      "redacted": "How do carbon emissions affect global economic growth?",
+      "pii_found": false
+    },
+    "sensitivity_filter": {
+      "is_sensitive": false,
+      "filter_score": 0.95,
+      "action": "ALLOW"
+    },
+    "bias_analysis": {
+      "bias_score": 1.0,
+      "detected_biases": [],
+      "bias_level": "LOW"
+    },
+    "safety_score": 0.95,
+    "recommendation": "APPROVED"
+  },
+  "What policies support education development?": {
+    "original_query": "What policies support education development?",
+    "pii_check": {
+      "original": "What policies support education development?",
+      "redacted": "What policies support education development?",
+      "pii_found": false
+    },
+    "sensitivity_filter": {
+      "is_sensitive": false,
+      "filter_score": 0.95,
+      "action": "ALLOW"
+    },
+    "bias_analysis": {
+      "bias_score": 1.0,
+      "detected_biases": [],
+      "bias_level": "LOW"
+    },
+    "safety_score": 0.95,
+    "recommendation": "APPROVED"
+  },
+  "What is the role of AI in economic transformation?": {
+    "original_query": "What is the role of AI in economic transformation?",
+    "pii_check": {
+      "original": "What is the role of AI in economic transformation?",
+      "redacted": "What is the role of AI in economic transformation?",
+      "pii_found": false
+    },
+    "sensitivity_filter": {
+      "is_sensitive": false,
+      "filter_score": 0.95,
+      "action": "ALLOW"
+    },
+    "bias_analysis": {
+      "bias_score": 1.0,
+      "detected_biases": [],
+      "bias_level": "LOW"
+    },
+    "safety_score": 0.95,
+    "recommendation": "APPROVED"
+  },
+  "How do health policies impact population outcomes?": {
+    "original_query": "How do health policies impact population outcomes?",
+    "pii_check": {
+      "original": "How do health policies impact population outcomes?",
+      "redacted": "How do health policies impact population outcomes?",
+      "pii_found": false
+    },
+    "sensitivity_filter": {
+      "is_sensitive": false,
+      "filter_score": 0.95,
+      "action": "ALLOW"
+    },
+    "bias_analysis": {
+      "bias_score": 1.0,
+      "detected_biases": [],
+      "bias_level": "LOW"
+    },
+    "safety_score": 0.95,
+    "recommendation": "APPROVED"
+  }
+}

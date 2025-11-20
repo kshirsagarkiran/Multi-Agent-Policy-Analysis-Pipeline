@@ -1,0 +1,227 @@
+{
+  "What are the employment trends in green sectors?": {
+    "query": "What are the employment trends in green sectors?",
+    "summary_count": 3,
+    "summaries": [
+      {
+        "chunk_id": 0,
+        "summary": "Disinflation amid Economic Resilience still-tight\u2013\u2013though easing\u2013\u2013labor markets. Households\nin advanced economies supported their spending by\nEconomic activity was surprisingly resilient during\ndrawing down accumulated pandemic-era savings.",
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 1,
+        "summary": "and supply developments have supported major\nregions. The overall budgetary stance\u2013\u2013measured by\neconomies, despite rising central bank interest rates\nthe structural fiscal balance\u2013\u2013was more expansionary\naimed at restoring price stability.",
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 2,
+        "summary": "October 2022 WEO forecasts, was estimated at 2 per-\ncurbing high government debt levels, with higher taxes\ncent of GDP in the United States and 0.2 percent of\nand lower government spending, is expected to weigh\nGDP in the euro area, whereas in China,1 the fiscal\non growth.",
+        "source": "classical_output.json"
+      }
+    ],
+    "key_entities": {
+      "organizations": [],
+      "locations": [],
+      "years": [
+        "2022",
+        "2023",
+        "2024"
+      ]
+    },
+    "citations": [
+      {
+        "id": 1,
+        "source": "OECD"
+      },
+      {
+        "id": 2,
+        "source": "WHO"
+      },
+      {
+        "id": 3,
+        "source": "IEA"
+      }
+    ],
+    "confidence_score": 0.82
+  },
+  "How do carbon emissions affect global economic growth?": {
+    "query": "How do carbon emissions affect global economic growth?",
+    "summary_count": 3,
+    "summaries": [
+      {
+        "chunk_id": 0,
+        "summary": "Disinflation amid Economic Resilience still-tight\u2013\u2013though easing\u2013\u2013labor markets. Households\nin advanced economies supported their spending by\nEconomic activity was surprisingly resilient during\ndrawing down accumulated pandemic-era savings.",
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 1,
+        "summary": "and supply developments have supported major\nregions. The overall budgetary stance\u2013\u2013measured by\neconomies, despite rising central bank interest rates\nthe structural fiscal balance\u2013\u2013was more expansionary\naimed at restoring price stability.",
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 2,
+        "summary": "October 2022 WEO forecasts, was estimated at 2 per-\ncurbing high government debt levels, with higher taxes\ncent of GDP in the United States and 0.2 percent of\nand lower government spending, is expected to weigh\nGDP in the euro area, whereas in China,1 the fiscal\non growth.",
+        "source": "classical_output.json"
+      }
+    ],
+    "key_entities": {
+      "organizations": [],
+      "locations": [],
+      "years": [
+        "2022",
+        "2023",
+        "2024"
+      ]
+    },
+    "citations": [
+      {
+        "id": 1,
+        "source": "OECD"
+      },
+      {
+        "id": 2,
+        "source": "WHO"
+      },
+      {
+        "id": 3,
+        "source": "IEA"
+      }
+    ],
+    "confidence_score": 0.82
+  },
+  "What policies support education development?": {
+    "query": "What policies support education development?",
+    "summary_count": 3,
+    "summaries": [
+      {
+        "chunk_id": 0,
+        "summary": "Disinflation amid Economic Resilience still-tight\u2013\u2013though easing\u2013\u2013labor markets. Households\nin advanced economies supported their spending by\nEconomic activity was surprisingly resilient during\ndrawing down accumulated pandemic-era savings.",
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 1,
+        "summary": "and supply developments have supported major\nregions. The overall budgetary stance\u2013\u2013measured by\neconomies, despite rising central bank interest rates\nthe structural fiscal balance\u2013\u2013was more expansionary\naimed at restoring price stability.",
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 2,
+        "summary": "October 2022 WEO forecasts, was estimated at 2 per-\ncurbing high government debt levels, with higher taxes\ncent of GDP in the United States and 0.2 percent of\nand lower government spending, is expected to weigh\nGDP in the euro area, whereas in China,1 the fiscal\non growth.",
+        "source": "classical_output.json"
+      }
+    ],
+    "key_entities": {
+      "organizations": [],
+      "locations": [],
+      "years": [
+        "2022",
+        "2023",
+        "2024"
+      ]
+    },
+    "citations": [
+      {
+        "id": 1,
+        "source": "OECD"
+      },
+      {
+        "id": 2,
+        "source": "WHO"
+      },
+      {
+        "id": 3,
+        "source": "IEA"
+      }
+    ],
+    "confidence_score": 0.82
+  },
+  "What is the role of AI in economic transformation?": {
+    "query": "What is the role of AI in economic transformation?",
+    "summary_count": 3,
+    "summaries": [
+      {
+        "chunk_id": 0,
+        "summary": "Disinflation amid Economic Resilience still-tight\u2013\u2013though easing\u2013\u2013labor markets. Households\nin advanced economies supported their spending by\nEconomic activity was surprisingly resilient during\ndrawing down accumulated pandemic-era savings.",
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 1,
+        "summary": "and supply developments have supported major\nregions. The overall budgetary stance\u2013\u2013measured by\neconomies, despite rising central bank interest rates\nthe structural fiscal balance\u2013\u2013was more expansionary\naimed at restoring price stability.",
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 2,
+        "summary": "October 2022 WEO forecasts, was estimated at 2 per-\ncurbing high government debt levels, with higher taxes\ncent of GDP in the United States and 0.2 percent of\nand lower government spending, is expected to weigh\nGDP in the euro area, whereas in China,1 the fiscal\non growth.",
+        "source": "classical_output.json"
+      }
+    ],
+    "key_entities": {
+      "organizations": [],
+      "locations": [],
+      "years": [
+        "2022",
+        "2023",
+        "2024"
+      ]
+    },
+    "citations": [
+      {
+        "id": 1,
+        "source": "OECD"
+      },
+      {
+        "id": 2,
+        "source": "WHO"
+      },
+      {
+        "id": 3,
+        "source": "IEA"
+      }
+    ],
+    "confidence_score": 0.82
+  },
+  "How do health policies impact population outcomes?": {
+    "query": "How do health policies impact population outcomes?",
+    "summary_count": 3,
+    "summaries": [
+      {
+        "chunk_id": 0,
+        "summary": "Disinflation amid Economic Resilience still-tight\u2013\u2013though easing\u2013\u2013labor markets. Households\nin advanced economies supported their spending by\nEconomic activity was surprisingly resilient during\ndrawing down accumulated pandemic-era savings.",
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 1,
+        "summary": "and supply developments have supported major\nregions. The overall budgetary stance\u2013\u2013measured by\neconomies, despite rising central bank interest rates\nthe structural fiscal balance\u2013\u2013was more expansionary\naimed at restoring price stability.",
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 2,
+        "summary": "October 2022 WEO forecasts, was estimated at 2 per-\ncurbing high government debt levels, with higher taxes\ncent of GDP in the United States and 0.2 percent of\nand lower government spending, is expected to weigh\nGDP in the euro area, whereas in China,1 the fiscal\non growth.",
+        "source": "classical_output.json"
+      }
+    ],
+    "key_entities": {
+      "organizations": [],
+      "locations": [],
+      "years": [
+        "2022",
+        "2023",
+        "2024"
+      ]
+    },
+    "citations": [
+      {
+        "id": 1,
+        "source": "OECD"
+      },
+      {
+        "id": 2,
+        "source": "WHO"
+      },
+      {
+        "id": 3,
+        "source": "IEA"
+      }
+    ],
+    "confidence_score": 0.82
+  }
+}

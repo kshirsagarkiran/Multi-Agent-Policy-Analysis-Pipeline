@@ -1,0 +1,9 @@
+{
+  "total_chunks": 15778,
+  "chunks_processed": 15778,
+  "documents_processed": 158,
+  "avg_chunk_size": 256,
+  "status": "COMPLETED",
+  "method": "optimized_ingestion",
+  "processing_time": "fast"
+}

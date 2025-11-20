@@ -1,0 +1,8 @@
+{
+  "alpha": 0.8,
+  "chunk_size": 475,
+  "summary_count": 4,
+  "learning_rate": 0.1,
+  "confidence_threshold": 0.8,
+  "timestamp": "2025-11-14T17:11:57.601626"
+}

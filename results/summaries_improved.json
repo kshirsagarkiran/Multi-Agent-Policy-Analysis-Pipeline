@@ -1,0 +1,319 @@
+{
+  "What are the employment trends in green sectors?": {
+    "query": "What are the employment trends in green sectors?",
+    "complexity": "complex",
+    "summary_count": 5,
+    "summaries": [
+      {
+        "chunk_id": 0,
+        "summary": "Disinflation amid Economic Resilience still-tight\u2013\u2013though easing\u2013\u2013labor markets.Households\nin advanced economies supported their spending by\nEconomic activity was surprisingly resilient during\ndrawing down accumulated pandemic-era savings.",
+        "relevance_score": 0.75,
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 1,
+        "summary": "and supply developments have supported major\nregions.The overall budgetary stance\u2013\u2013measured by\neconomies, despite rising central bank interest rates\nthe structural fiscal balance\u2013\u2013was more expansionary\naimed at restoring price stability.",
+        "relevance_score": 0.625,
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 2,
+        "summary": "October 2022 WEO forecasts, was estimated at 2 per-\ncurbing high government debt levels, with higher taxes\ncent of GDP in the United States and 0.2 percent of\nand lower government spending, is expected to weigh\nGDP in the euro area, whereas in China,1 the fiscal\non growth.",
+        "relevance_score": 0.75,
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 3,
+        "summary": "factors including the long-term consequences of the\nupside growth surprise, reflecting weak consumer sen-\nCOVID-19 pandemic, Russia\u2019s invasion of Ukraine,\ntiment and the lingering effects of high energy prices.weak growth in productivity, and increasing geoeco-\nIn parallel, global headline inflation declined broadly\nnomic fragmentation.",
+        "relevance_score": 0.75,
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 4,
+        "summary": "point more than predicted in the October 2022 WEO\nprepandemic level in most economies for the first\nfor 2022 and 2023.However, in lower-income coun-\ntime since the start of the global inflation surge\ntries, inflation was on average higher than expected,\n(Figure 1.",
+        "relevance_score": 0.75,
+        "source": "classical_output.json"
+      }
+    ],
+    "key_entities": {
+      "organizations": [
+        "IEA",
+        "IMF"
+      ],
+      "years": [
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "topics": [
+        "employment",
+        "environment"
+      ]
+    },
+    "confidence_score": 0.869,
+    "citations": [
+      {
+        "id": 1,
+        "source": "OECD Policy Documents"
+      },
+      {
+        "id": 2,
+        "source": "WHO Health Reports"
+      },
+      {
+        "id": 3,
+        "source": "IEA Energy Data"
+      }
+    ]
+  },
+  "How do carbon emissions affect global economic growth?": {
+    "query": "How do carbon emissions affect global economic growth?",
+    "complexity": "moderate",
+    "summary_count": 4,
+    "summaries": [
+      {
+        "chunk_id": 0,
+        "summary": "Disinflation amid Economic Resilience still-tight\u2013\u2013though easing\u2013\u2013labor markets.Households\nin advanced economies supported their spending by\nEconomic activity was surprisingly resilient during\ndrawing down accumulated pandemic-era savings.",
+        "relevance_score": 0.75,
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 1,
+        "summary": "and supply developments have supported major\nregions.The overall budgetary stance\u2013\u2013measured by\neconomies, despite rising central bank interest rates\nthe structural fiscal balance\u2013\u2013was more expansionary\naimed at restoring price stability.",
+        "relevance_score": 0.5,
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 2,
+        "summary": "October 2022 WEO forecasts, was estimated at 2 per-\ncurbing high government debt levels, with higher taxes\ncent of GDP in the United States and 0.2 percent of\nand lower government spending, is expected to weigh\nGDP in the euro area, whereas in China,1 the fiscal\non growth.",
+        "relevance_score": 0.5,
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 3,
+        "summary": "factors including the long-term consequences of the\nupside growth surprise, reflecting weak consumer sen-\nCOVID-19 pandemic, Russia\u2019s invasion of Ukraine,\ntiment and the lingering effects of high energy prices.weak growth in productivity, and increasing geoeco-\nIn parallel, global headline inflation declined broadly\nnomic fragmentation.",
+        "relevance_score": 0.625,
+        "source": "classical_output.json"
+      }
+    ],
+    "key_entities": {
+      "organizations": [
+        "IEA",
+        "IMF"
+      ],
+      "years": [
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "topics": [
+        "employment",
+        "environment"
+      ]
+    },
+    "confidence_score": 0.906,
+    "citations": [
+      {
+        "id": 1,
+        "source": "OECD Policy Documents"
+      },
+      {
+        "id": 2,
+        "source": "WHO Health Reports"
+      },
+      {
+        "id": 3,
+        "source": "IEA Energy Data"
+      }
+    ]
+  },
+  "What policies support education development?": {
+    "query": "What policies support education development?",
+    "complexity": "moderate",
+    "summary_count": 4,
+    "summaries": [
+      {
+        "chunk_id": 0,
+        "summary": "Disinflation amid Economic Resilience still-tight\u2013\u2013though easing\u2013\u2013labor markets.Households\nin advanced economies supported their spending by\nEconomic activity was surprisingly resilient during\ndrawing down accumulated pandemic-era savings.",
+        "relevance_score": 0.5,
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 1,
+        "summary": "and supply developments have supported major\nregions.The overall budgetary stance\u2013\u2013measured by\neconomies, despite rising central bank interest rates\nthe structural fiscal balance\u2013\u2013was more expansionary\naimed at restoring price stability.",
+        "relevance_score": 0.7,
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 2,
+        "summary": "October 2022 WEO forecasts, was estimated at 2 per-\ncurbing high government debt levels, with higher taxes\ncent of GDP in the United States and 0.2 percent of\nand lower government spending, is expected to weigh\nGDP in the euro area, whereas in China,1 the fiscal\non growth.",
+        "relevance_score": 0.5,
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 3,
+        "summary": "factors including the long-term consequences of the\nupside growth surprise, reflecting weak consumer sen-\nCOVID-19 pandemic, Russia\u2019s invasion of Ukraine,\ntiment and the lingering effects of high energy prices.weak growth in productivity, and increasing geoeco-\nIn parallel, global headline inflation declined broadly\nnomic fragmentation.",
+        "relevance_score": 0.5,
+        "source": "classical_output.json"
+      }
+    ],
+    "key_entities": {
+      "organizations": [
+        "IEA",
+        "IMF"
+      ],
+      "years": [
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "topics": [
+        "employment",
+        "environment"
+      ]
+    },
+    "confidence_score": 0.869,
+    "citations": [
+      {
+        "id": 1,
+        "source": "OECD Policy Documents"
+      },
+      {
+        "id": 2,
+        "source": "WHO Health Reports"
+      },
+      {
+        "id": 3,
+        "source": "IEA Energy Data"
+      }
+    ]
+  },
+  "What is the role of AI in economic transformation?": {
+    "query": "What is the role of AI in economic transformation?",
+    "complexity": "complex",
+    "summary_count": 5,
+    "summaries": [
+      {
+        "chunk_id": 0,
+        "summary": "Disinflation amid Economic Resilience still-tight\u2013\u2013though easing\u2013\u2013labor markets.Households\nin advanced economies supported their spending by\nEconomic activity was surprisingly resilient during\ndrawing down accumulated pandemic-era savings.",
+        "relevance_score": 0.944,
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 1,
+        "summary": "and supply developments have supported major\nregions.The overall budgetary stance\u2013\u2013measured by\neconomies, despite rising central bank interest rates\nthe structural fiscal balance\u2013\u2013was more expansionary\naimed at restoring price stability.",
+        "relevance_score": 0.722,
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 2,
+        "summary": "October 2022 WEO forecasts, was estimated at 2 per-\ncurbing high government debt levels, with higher taxes\ncent of GDP in the United States and 0.2 percent of\nand lower government spending, is expected to weigh\nGDP in the euro area, whereas in China,1 the fiscal\non growth.",
+        "relevance_score": 0.944,
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 3,
+        "summary": "factors including the long-term consequences of the\nupside growth surprise, reflecting weak consumer sen-\nCOVID-19 pandemic, Russia\u2019s invasion of Ukraine,\ntiment and the lingering effects of high energy prices.weak growth in productivity, and increasing geoeco-\nIn parallel, global headline inflation declined broadly\nnomic fragmentation.",
+        "relevance_score": 0.833,
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 4,
+        "summary": "point more than predicted in the October 2022 WEO\nprepandemic level in most economies for the first\nfor 2022 and 2023.However, in lower-income coun-\ntime since the start of the global inflation surge\ntries, inflation was on average higher than expected,\n(Figure 1.",
+        "relevance_score": 0.833,
+        "source": "classical_output.json"
+      }
+    ],
+    "key_entities": {
+      "organizations": [
+        "IEA",
+        "IMF"
+      ],
+      "years": [
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "topics": [
+        "employment",
+        "environment"
+      ]
+    },
+    "confidence_score": 0.869,
+    "citations": [
+      {
+        "id": 1,
+        "source": "OECD Policy Documents"
+      },
+      {
+        "id": 2,
+        "source": "WHO Health Reports"
+      },
+      {
+        "id": 3,
+        "source": "IEA Energy Data"
+      }
+    ]
+  },
+  "How do health policies impact population outcomes?": {
+    "query": "How do health policies impact population outcomes?",
+    "complexity": "moderate",
+    "summary_count": 4,
+    "summaries": [
+      {
+        "chunk_id": 0,
+        "summary": "Disinflation amid Economic Resilience still-tight\u2013\u2013though easing\u2013\u2013labor markets.Households\nin advanced economies supported their spending by\nEconomic activity was surprisingly resilient during\ndrawing down accumulated pandemic-era savings.",
+        "relevance_score": 0.5,
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 1,
+        "summary": "and supply developments have supported major\nregions.The overall budgetary stance\u2013\u2013measured by\neconomies, despite rising central bank interest rates\nthe structural fiscal balance\u2013\u2013was more expansionary\naimed at restoring price stability.",
+        "relevance_score": 0.643,
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 2,
+        "summary": "October 2022 WEO forecasts, was estimated at 2 per-\ncurbing high government debt levels, with higher taxes\ncent of GDP in the United States and 0.2 percent of\nand lower government spending, is expected to weigh\nGDP in the euro area, whereas in China,1 the fiscal\non growth.",
+        "relevance_score": 0.5,
+        "source": "classical_output.json"
+      },
+      {
+        "chunk_id": 3,
+        "summary": "factors including the long-term consequences of the\nupside growth surprise, reflecting weak consumer sen-\nCOVID-19 pandemic, Russia\u2019s invasion of Ukraine,\ntiment and the lingering effects of high energy prices.weak growth in productivity, and increasing geoeco-\nIn parallel, global headline inflation declined broadly\nnomic fragmentation.",
+        "relevance_score": 0.5,
+        "source": "classical_output.json"
+      }
+    ],
+    "key_entities": {
+      "organizations": [
+        "IEA",
+        "IMF"
+      ],
+      "years": [
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "topics": [
+        "employment",
+        "environment"
+      ]
+    },
+    "confidence_score": 0.869,
+    "citations": [
+      {
+        "id": 1,
+        "source": "OECD Policy Documents"
+      },
+      {
+        "id": 2,
+        "source": "WHO Health Reports"
+      },
+      {
+        "id": 3,
+        "source": "IEA Energy Data"
+      }
+    ]
+  }
+}

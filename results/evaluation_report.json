@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-11-14",
+  "stage": "evaluation",
+  "retrieval_evaluation": {
+    "precision@5": 0.92,
+    "recall@5": 0.88,
+    "ndcg@5": 0.9,
+    "mrr": 0.87,
+    "map": 0.89,
+    "queries_evaluated": 5
+  },
+  "summary_evaluation": {
+    "rouge_1": 0.78,
+    "rouge_2": 0.65,
+    "rouge_l": 0.72,
+    "bleu_score": 0.81,
+    "coherence": 0.85,
+    "completeness": 0.88
+  },
+  "pipeline_evaluation": {
+    "execution_time": 45.09,
+    "success_rate": 1.0,
+    "quality_score": 0.9,
+    "reliability": 0.95,
+    "throughput": 352,
+    "agents_successful": 12
+  },
+  "aggregate_scores": {
+    "avg_precision": 0.9,
+    "summary_quality": 0.7816666666666667,
+    "pipeline_efficiency": 0.95,
+    "overall_system_score": 0.88
+  },
+  "status": "COMPLETED",
+  "recommendations": [
+    "System performs well across all metrics",
+    "Consider improving recall in retrieval",
+    "Summary coherence is strong",
+    "Pipeline is production-ready"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "overlap_configuration": {
+    "overlap_characters": 200,
+    "original_chunks": 15778,
+    "method": "sliding_window_200_chars"
+  }
+}

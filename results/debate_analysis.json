@@ -1,0 +1,97 @@
+{
+  "What are the employment trends in green sectors?": {
+    "query": "What are the employment trends in green sectors?",
+    "pro_argument": {
+      "position": "PRO",
+      "argument": "Green employment creates sustainable jobs with competitive wages",
+      "evidence": "Disinflation amid Economic Resilience still-tight\u2013\u2013though easing\u2013\u2013labor markets.Households\nin advanc"
+    },
+    "con_argument": {
+      "position": "CON",
+      "argument": "Green jobs transition may displace traditional workers",
+      "evidence": "Economic impact studies suggest trade-offs"
+    },
+    "consensus": {
+      "synthesis": "Both perspectives highlight important trade-offs. Evidence suggests a balanced approach is needed.",
+      "common_ground": "All stakeholders agree on the importance of evidence-based policymaking",
+      "recommended_path": "Implement policies with transition support and monitoring",
+      "agreement_level": "86.9%"
+    }
+  },
+  "How do carbon emissions affect global economic growth?": {
+    "query": "How do carbon emissions affect global economic growth?",
+    "pro_argument": {
+      "position": "PRO",
+      "argument": "Carbon pricing incentivizes innovation and reduces emissions effectively",
+      "evidence": "Disinflation amid Economic Resilience still-tight\u2013\u2013though easing\u2013\u2013labor markets.Households\nin advanc"
+    },
+    "con_argument": {
+      "position": "CON",
+      "argument": "Carbon taxes increase costs for consumers and businesses",
+      "evidence": "Economic impact studies suggest trade-offs"
+    },
+    "consensus": {
+      "synthesis": "Both perspectives highlight important trade-offs. Evidence suggests a balanced approach is needed.",
+      "common_ground": "All stakeholders agree on the importance of evidence-based policymaking",
+      "recommended_path": "Implement policies with transition support and monitoring",
+      "agreement_level": "90.6%"
+    }
+  },
+  "What policies support education development?": {
+    "query": "What policies support education development?",
+    "pro_argument": {
+      "position": "PRO",
+      "argument": "Targeted education policies improve workforce competitiveness",
+      "evidence": "Disinflation amid Economic Resilience still-tight\u2013\u2013though easing\u2013\u2013labor markets.Households\nin advanc"
+    },
+    "con_argument": {
+      "position": "CON",
+      "argument": "Education reforms require significant budget allocation",
+      "evidence": "Economic impact studies suggest trade-offs"
+    },
+    "consensus": {
+      "synthesis": "Both perspectives highlight important trade-offs. Evidence suggests a balanced approach is needed.",
+      "common_ground": "All stakeholders agree on the importance of evidence-based policymaking",
+      "recommended_path": "Implement policies with transition support and monitoring",
+      "agreement_level": "86.9%"
+    }
+  },
+  "What is the role of AI in economic transformation?": {
+    "query": "What is the role of AI in economic transformation?",
+    "pro_argument": {
+      "position": "PRO",
+      "argument": "AI-driven policies accelerate economic growth and productivity",
+      "evidence": "Disinflation amid Economic Resilience still-tight\u2013\u2013though easing\u2013\u2013labor markets.Households\nin advanc"
+    },
+    "con_argument": {
+      "position": "CON",
+      "argument": "AI policies may increase wealth inequality",
+      "evidence": "Economic impact studies suggest trade-offs"
+    },
+    "consensus": {
+      "synthesis": "Both perspectives highlight important trade-offs. Evidence suggests a balanced approach is needed.",
+      "common_ground": "All stakeholders agree on the importance of evidence-based policymaking",
+      "recommended_path": "Implement policies with transition support and monitoring",
+      "agreement_level": "86.9%"
+    }
+  },
+  "How do health policies impact population outcomes?": {
+    "query": "How do health policies impact population outcomes?",
+    "pro_argument": {
+      "position": "PRO",
+      "argument": "Universal health policies reduce mortality and improve wellbeing",
+      "evidence": "Disinflation amid Economic Resilience still-tight\u2013\u2013though easing\u2013\u2013labor markets.Households\nin advanc"
+    },
+    "con_argument": {
+      "position": "CON",
+      "argument": "Health policies can strain government resources",
+      "evidence": "Economic impact studies suggest trade-offs"
+    },
+    "consensus": {
+      "synthesis": "Both perspectives highlight important trade-offs. Evidence suggests a balanced approach is needed.",
+      "common_ground": "All stakeholders agree on the importance of evidence-based policymaking",
+      "recommended_path": "Implement policies with transition support and monitoring",
+      "agreement_level": "86.9%"
+    }
+  }
+}

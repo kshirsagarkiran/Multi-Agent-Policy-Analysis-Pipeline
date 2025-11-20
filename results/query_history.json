@@ -1,0 +1,12 @@
+{
+  "average_confidence": 0.8764000000000001,
+  "success_rate": 1.0,
+  "total_queries": 15,
+  "query_types": {
+    "employment": 3,
+    "environment": 3,
+    "education": 3,
+    "economic": 6,
+    "health": 3
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "What are the employment trends in green sectors?": {
+    "query": "What are the employment trends in green sectors?",
+    "steps": [
+      {
+        "step": 1,
+        "action": "detect_language",
+        "status": "complete"
+      },
+      {
+        "step": 2,
+        "action": "decompose_query",
+        "status": "complete"
+      },
+      {
+        "step": 3,
+        "action": "route_to_topics",
+        "status": "complete"
+      },
+      {
+        "step": 4,
+        "action": "retrieve_relevant_chunks",
+        "status": "pending"
+      },
+      {
+        "step": 5,
+        "action": "generate_summary",
+        "status": "pending"
+      }
+    ],
+    "routing": {
+      "original_query": "What are the employment trends in green sectors?",
+      "language": "english",
+      "sub_queries": [
+        "what",
+        "what are",
+        "what are the",
+        "what are the employment",
+        "what are the employment trends",
+        "what are the employment trends in",
+        "what are the employment trends in green",
+        "what are the employment trends in green sectors?"
+      ],
+      "routing": [
+        "topic_0_employment"
+      ],
+      "confidence": 0.85
+    }
+  },
+  "How do carbon emissions affect global economic growth?": {
+    "query": "How do carbon emissions affect global economic growth?",
+    "steps": [
+      {
+        "step": 1,
+        "action": "detect_language",
+        "status": "complete"
+      },
+      {
+        "step": 2,
+        "action": "decompose_query",
+        "status": "complete"
+      },
+      {
+        "step": 3,
+        "action": "route_to_topics",
+        "status": "complete"
+      },
+      {
+        "step": 4,
+        "action": "retrieve_relevant_chunks",
+        "status": "pending"
+      },
+      {
+        "step": 5,
+        "action": "generate_summary",
+        "status": "pending"
+      }
+    ],
+    "routing": {
+      "original_query": "How do carbon emissions affect global economic growth?",
+      "language": "english",
+      "sub_queries": [
+        "how",
+        "how do",
+        "how do carbon",
+        "how do carbon emissions",
+        "how do carbon emissions affect",
+        "how do carbon emissions affect global",
+        "how do carbon emissions affect global economic",
+        "how do carbon emissions affect global economic growth?"
+      ],
+      "routing": [
+        "topic_3_environment",
+        "topic_4_economic"
+      ],
+      "confidence": 0.85
+    }
+  },
+  "What policies support education development?": {
+    "query": "What policies support education development?",
+    "steps": [
+      {
+        "step": 1,
+        "action": "detect_language",
+        "status": "complete"
+      },
+      {
+        "step": 2,
+        "action": "decompose_query",
+        "status": "complete"
+      },
+      {
+        "step": 3,
+        "action": "route_to_topics",
+        "status": "complete"
+      },
+      {
+        "step": 4,
+        "action": "retrieve_relevant_chunks",
+        "status": "pending"
+      },
+      {
+        "step": 5,
+        "action": "generate_summary",
+        "status": "pending"
+      }
+    ],
+    "routing": {
+      "original_query": "What policies support education development?",
+      "language": "english",
+      "sub_queries": [
+        "what",
+        "what policies",
+        "what policies support",
+        "what policies support education",
+        "what policies support education development?"
+      ],
+      "routing": [
+        "topic_3_education"
+      ],
+      "confidence": 0.85
+    }
+  },
+  "What is the role of AI in economic transformation?": {
+    "query": "What is the role of AI in economic transformation?",
+    "steps": [
+      {
+        "step": 1,
+        "action": "detect_language",
+        "status": "complete"
+      },
+      {
+        "step": 2,
+        "action": "decompose_query",
+        "status": "complete"
+      },
+      {
+        "step": 3,
+        "action": "route_to_topics",
+        "status": "complete"
+      },
+      {
+        "step": 4,
+        "action": "retrieve_relevant_chunks",
+        "status": "pending"
+      },
+      {
+        "step": 5,
+        "action": "generate_summary",
+        "status": "pending"
+      }
+    ],
+    "routing": {
+      "original_query": "What is the role of AI in economic transformation?",
+      "language": "english",
+      "sub_queries": [
+        "what",
+        "what is",
+        "what is the",
+        "what is the role",
+        "what is the role of",
+        "what is the role of ai",
+        "what is the role of ai in",
+        "what is the role of ai in economic",
+        "what is the role of ai in economic transformation?"
+      ],
+      "routing": [
+        "topic_4_economic"
+      ],
+      "confidence": 0.85
+    }
+  },
+  "How do health policies impact population outcomes?": {
+    "query": "How do health policies impact population outcomes?",
+    "steps": [
+      {
+        "step": 1,
+        "action": "detect_language",
+        "status": "complete"
+      },
+      {
+        "step": 2,
+        "action": "decompose_query",
+        "status": "complete"
+      },
+      {
+        "step": 3,
+        "action": "route_to_topics",
+        "status": "complete"
+      },
+      {
+        "step": 4,
+        "action": "retrieve_relevant_chunks",
+        "status": "pending"
+      },
+      {
+        "step": 5,
+        "action": "generate_summary",
+        "status": "pending"
+      }
+    ],
+    "routing": {
+      "original_query": "How do health policies impact population outcomes?",
+      "language": "english",
+      "sub_queries": [
+        "how",
+        "how do",
+        "how do health",
+        "how do health policies",
+        "how do health policies impact",
+        "how do health policies impact population",
+        "how do health policies impact population outcomes?"
+      ],
+      "routing": [
+        "topic_2_health"
+      ],
+      "confidence": 0.85
+    }
+  }
+}

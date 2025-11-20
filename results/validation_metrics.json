@@ -1,0 +1,97 @@
+{
+  "What are the employment trends in green sectors?": {
+    "validation": {
+      "factuality": {
+        "pro": 0.85,
+        "con": 0.8,
+        "average": 0.825
+      },
+      "semantic_alignment": 0.8,
+      "consistency": 0.85,
+      "overall_validity": 0.825,
+      "validation_status": "VALID"
+    },
+    "temporal_analysis": {
+      "years_mentioned": [],
+      "temporal_order": "valid",
+      "currency": "historical"
+    },
+    "recommendation": "Proceed with policy analysis"
+  },
+  "How do carbon emissions affect global economic growth?": {
+    "validation": {
+      "factuality": {
+        "pro": 0.85,
+        "con": 0.85,
+        "average": 0.85
+      },
+      "semantic_alignment": 0.8,
+      "consistency": 0.85,
+      "overall_validity": 0.838,
+      "validation_status": "VALID"
+    },
+    "temporal_analysis": {
+      "years_mentioned": [],
+      "temporal_order": "valid",
+      "currency": "historical"
+    },
+    "recommendation": "Proceed with policy analysis"
+  },
+  "What policies support education development?": {
+    "validation": {
+      "factuality": {
+        "pro": 0.85,
+        "con": 0.85,
+        "average": 0.85
+      },
+      "semantic_alignment": 0.8,
+      "consistency": 0.85,
+      "overall_validity": 0.838,
+      "validation_status": "VALID"
+    },
+    "temporal_analysis": {
+      "years_mentioned": [],
+      "temporal_order": "valid",
+      "currency": "historical"
+    },
+    "recommendation": "Proceed with policy analysis"
+  },
+  "What is the role of AI in economic transformation?": {
+    "validation": {
+      "factuality": {
+        "pro": 0.85,
+        "con": 0.8,
+        "average": 0.825
+      },
+      "semantic_alignment": 0.8,
+      "consistency": 0.85,
+      "overall_validity": 0.825,
+      "validation_status": "VALID"
+    },
+    "temporal_analysis": {
+      "years_mentioned": [],
+      "temporal_order": "valid",
+      "currency": "historical"
+    },
+    "recommendation": "Proceed with policy analysis"
+  },
+  "How do health policies impact population outcomes?": {
+    "validation": {
+      "factuality": {
+        "pro": 0.85,
+        "con": 0.85,
+        "average": 0.85
+      },
+      "semantic_alignment": 0.8,
+      "consistency": 0.85,
+      "overall_validity": 0.838,
+      "validation_status": "VALID"
+    },
+    "temporal_analysis": {
+      "years_mentioned": [],
+      "temporal_order": "valid",
+      "currency": "historical"
+    },
+    "recommendation": "Proceed with policy analysis"
+  }
+}

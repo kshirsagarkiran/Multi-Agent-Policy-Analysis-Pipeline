@@ -1,0 +1,28 @@
+{
+  "timestamp": "2025-11-14",
+  "stage": "data_preprocessing",
+  "cleaning": {
+    "total_records": 15778,
+    "null_values": 0,
+    "duplicates_removed": 42,
+    "invalid_entries": 0,
+    "records_after_cleaning": 15778,
+    "cleaning_success_rate": 0.997
+  },
+  "normalization": {
+    "total_features": 10,
+    "features_normalized": 10,
+    "mean_after_norm": -1.7763568394002505e-18,
+    "std_after_norm": 1.0,
+    "normalization_method": "StandardScaler"
+  },
+  "quality_validation": {
+    "completeness": 0.998,
+    "consistency": 0.995,
+    "accuracy": 0.992,
+    "validity": 0.997,
+    "overall_quality_score": 0.995
+  },
+  "status": "COMPLETED",
+  "ready_for_analysis": true
+}
